@@ -1,3 +1,7 @@
+Detalii generale
+https://ocw.cs.pub.ro/courses/poo-is/arhiva_teme/2020/tema2
+
+Detalii implementare
 Cerinta 3:
 a. Parcurg lista de produse si adaug intr-o noua lista produsele a caror categorie este "espressor" si este de tipul "DiscountedProduct".
 b. Parcurg lista de useri si ii adaug in lista pe cei de tip "BasicUser" avand costul de transport <11.5lei.
